@@ -1,4 +1,4 @@
-![My Daily Dev Profile]("https://api.daily.dev/devcards/e75297bfacae4a1baefb428dc36ff4f0.png?r=jmt")
+![My Daily Dev Profile](https://api.daily.dev/devcards/e75297bfacae4a1baefb428dc36ff4f0.png?r=jmt")
 
 
 ## Hi there 🙋‍♂️
