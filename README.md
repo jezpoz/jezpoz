@@ -1,3 +1,6 @@
+![My Daily Dev Profile]("https://api.daily.dev/devcards/e75297bfacae4a1baefb428dc36ff4f0.png?r=jmt")
+
+
 ## Hi there 🙋‍♂️
 My name is Jesper. I'm a 20-something (getting close to 30-something though 😭) guy from Norway. Currently based in Oslo. Working as a developer at Oslo Digital. At Oslo Digital we focus on the customers digital transformation, mainly in the way of e-commerce. So my job is to deliver e-commerce systems that integrates with the customers existing systems or help them in selecting new systems. When I am not working I like long walks on de_dust2, supporting my dota2 carries (that means gaming), photography and streaming. What I stream can vary from building a flappy bird clone in HTML to playing The Elder Scrolls: Oblivion.
 
